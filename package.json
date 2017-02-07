@@ -1,6 +1,6 @@
 {
   "name": "viva-excel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "excel",
   "main": "src/index.js",
   "dependencies": {
