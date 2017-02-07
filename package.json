@@ -1,107 +1,24 @@
 {
-  "_args": [
-    [
-      "excel-builder",
-      "/Users/Season/Desktop/xiaoying-analytics-static"
-    ]
-  ],
-  "_cnpm_publish_time": 1464884895944,
-  "_from": "excel-builder@latest",
-  "_id": "excel-builder@2.0.2",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/excel-builder",
-  "_nodeVersion": "4.2.3",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/excel-builder-2.0.2.tgz_1464884894542_0.011649210471659899"
-  },
-  "_npmUser": {
-    "email": "stephen@liberty-irm.com",
-    "name": "stephenliberty"
-  },
-  "_npmVersion": "3.8.1",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "excel-builder",
-    "raw": "excel-builder",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npm.taobao.org/excel-builder/download/excel-builder-2.0.2.tgz",
-  "_shasum": "357cc693f0b99d7a6ae5e85de238da92fca20c8b",
-  "_shrinkwrap": null,
-  "_spec": "excel-builder",
-  "_where": "/Users/Season/Desktop/xiaoying-analytics-static",
-  "author": {
-    "name": "Stephen Liberty"
-  },
-  "browserify-shim": {
-    "jszip": "global:JSZip",
-    "lodash": "global:_"
-  },
-  "bugs": {
-    "url": "https://github.com/stephenliberty/excel-builder.js/issues"
-  },
-  "dependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-watch": "^0.6.1",
-    "jszip": "^2.1.1",
-    "lodash": "^3.10.1",
-    "node-forge": "0.6.39",
-    "q": "^1.4.1"
-  },
-  "description": "An easy way of building Excel files with javascript",
-  "devDependencies": {
-    "browserify": "^12.0.1",
-    "browserify-shim": "^3.8.11",
-    "grunt": "~0.4.2",
-    "grunt-browserify": "^4.0.1",
-    "grunt-contrib-copy": "*",
-    "grunt-contrib-jasmine": "^0.9.2",
-    "grunt-contrib-jshint": "*",
-    "grunt-contrib-uglify": "*"
-  },
-  "directories": {},
-  "dist": {
-    "noattachment": false,
-    "shasum": "357cc693f0b99d7a6ae5e85de238da92fca20c8b",
-    "size": 1468192,
-    "tarball": "http://registry.npm.taobao.org/excel-builder/download/excel-builder-2.0.2.tgz"
-  },
-  "gitHead": "4acbea01741684822ae0967c1503c23461451e82",
-  "homepage": "http://excelbuilderjs.com/",
-  "keywords": [
-    "excel",
-    "javascript",
-    "xlsx",
-    "spreadsheet"
-  ],
-  "license": "GPLv3",
+  "name": "viva-excel",
+  "version": "1.0.0",
+  "description": "excel",
   "main": "src/index.js",
-  "maintainers": [
-    {
-      "email": "stephen@liberty-irm.com",
-      "name": "stephenliberty"
-    }
-  ],
-  "name": "excel-builder",
-  "optionalDependencies": {
-    "node-forge": "0.6.39"
-  },
-  "publish_time": 1464884895944,
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stephenliberty/excel-builder.js.git"
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "2.0.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XueSeason/excel-builder.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "XueSeason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XueSeason/excel-builder/issues"
+  },
+  "homepage": "https://github.com/XueSeason/excel-builder#readme"
 }
